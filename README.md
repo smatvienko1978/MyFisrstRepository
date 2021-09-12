@@ -1,3 +1,3 @@
 # MyFisrstRepository
-for learning
-just
+just for learning
+
